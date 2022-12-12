@@ -1,1 +1,1 @@
-# naive_bayes_Spam_Dectection
+# Naive_Bayes_Spam_Dectection
